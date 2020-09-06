@@ -4,7 +4,7 @@ The starter code for lab 03-04.
 ## Overview
 Let's design the user interface of a single page of a Twitter app in Flutter.
 
-Note: This lab is designed to take 2 weeks, and will be worth the value of two lab assignments.  It is recommended that you do the overall layout in the first week, and use basic widgets (introduced last week) as placeholders (e.g. `Text()`).  You can fill in the correct widgets in the second week.
+_**Note:** This lab is designed to take 2 weeks, and will be worth the value of two lab assignments.  It is recommended that you do the overall layout in the first week, and use basic widgets (introduced last week) as placeholders (e.g. `Text()`).  You can fill in the correct widgets in the second week._
 
 ## Instructions
 
