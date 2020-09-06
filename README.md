@@ -17,7 +17,7 @@ _Figure 1 - A single Tweet_
 
 First, we need to determine the layout from the largest elements to the smallest.  Can you see any structure at the top-most level?
 
-A marked-up screenshot is presented on the next page, but try to come up with your own breakdown before looking.
+A marked-up screenshot is presented below.  Try to come up with your own for each of those columns (and break _those_ down further, also).
 
 ![user interface breakdown](images/ui_breakdown.png)
  
