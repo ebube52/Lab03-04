@@ -78,3 +78,5 @@ If you wish to extend this lab, you will need to add features including interact
 - Clicking the speech bubble should provide the opportunity to reply to a tweet. This should take the user to a new page where they can write a new tweet. If a tweet is submitted, it should appear in the feed directly below the original tweet, and increase the number of comments by 1.
 
 - Clicking the bookmark button should set the tweet to be a favorited tweet. Favorited tweets will always appear at the top of the feed, with any replies directly below them. Clicking the bookmark button a second time should cause the tweet to no longer be favorited.
+
+- Finally, access Twitter.com directly to generate the initial tweets that appear when starting the app. You can choose any random tweets you want, and you don't need to actually interact with the real tweets, but you should be able to retrieve their information and use that to populate your feed.
