@@ -48,9 +48,6 @@ Below, you will see the sample output that is expected of you.
 
 _Figure 3 - The app's output, showing two tweets_
 
-## Need Extra Challenge?
-Add the interaction for some/all of the elements in your application (e.g. the like button toggle).
-
 ## Getting Help
 If you run into difficulty, you may wish to check out some of the following resources:
 
@@ -66,3 +63,18 @@ Of course, you can always ask the TA for help!  However, learning how to find th
 
 ## How to Submit
 Create your flutter project inside this folder, commit, and then push your code to this repository to submit your lab assignment.
+
+## Extending
+If you wish to extend this lab, you will need to add features including interaction for elements in the application.
+
+- Add a button to the AppBar that takes users to a new page where they can create a new tweet. This will require them to specify their two names, the text of the tweet, and an optional link to an image. New tweets are created with 0 comments, retweets, and likes, and are timestamped at the time of their creation.
+
+  - This means you will need to modify your app to use timestamps instead of timestrings to indicate when a tweet was made. Do so.
+
+- Clicking the heart (Like) or retweet buttons should increase the counts by 1, and change their icons appropriately. Clicking a second time should return the count and icons to their original states.
+
+- Clicking the button next to the time string should provide a small popup that asks the user if they wish to hide the tweet. If they do so, the tweet should disappear from the feed.
+
+- Clicking the speech bubble should provide the opportunity to reply to a tweet. This should take the user to a new page where they can write a new tweet. If a tweet is submitted, it should appear in the feed directly below the original tweet, and increase the number of comments by 1.
+
+- Clicking the bookmark button should set the tweet to be a favorited tweet. Favorited tweets will always appear at the top of the feed, with any replies directly below them. Clicking the bookmark button a second time should cause the tweet to no longer be favorited.
