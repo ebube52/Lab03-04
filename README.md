@@ -56,7 +56,7 @@ If you run into difficulty, you may wish to check out some of the following reso
 - https://flutter.dev/docs/reference/tutorials - A series of tutorials for the Flutter platform, focusing mainly on the widgets and API.
 - https://flutter.dev/docs/codelabs - A series of deep-dive, more comprehensive, tutorials to learn more about the Flutter platform.
 - https://flutter.dev/docs/cookbook - A set of recipes for commonly used features of Flutter.
-- https://github.com/flutter/samples/blob/master/INDEX.md - A repository containing some completed Flutter applications.
+- https://github.com/flutter/samples/ - A repository containing some completed Flutter applications.
 - http://stackoverflow.com/ - A forum for asking questions about programming.  I bet you know this one already!
 
 Of course, you can always ask the TA for help!  However, learning how to find the answers out for yourself is not only more satisfying, but results in greater learning as well.
