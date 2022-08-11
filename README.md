@@ -81,4 +81,4 @@ If you wish to extend this lab, you will need to add features including interact
 
 - Access Twitter.com directly to generate the initial tweets that appear when starting the app. You can choose any random tweets you want, and you don't need to actually interact with the real tweets, but you should be able to retrieve their information and use that to populate your feed.
 
-- Add one more feature of your choice other than those listed here.
+- Add one more feature of your choice other than those listed here. Mention this feature explicitly in your README.md.
